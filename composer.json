@@ -1,0 +1,27 @@
+{
+    "name": "Zorato/workshop",
+    "description": "SW Workshop about SOLID principles and Design Patterns",
+    "version": "1.0.0",
+    "type": "project",
+    "keywords": [
+        "Scandiweb",
+        "workshop",
+        "SOLID",
+        "Design Patterns",
+        "OOP",
+        "PHP"
+    ],
+    "license": "Beerware",
+    "authors": [
+        {
+            "name": "Alexey Rehov",
+            "email": "aleksejs@scandiweb.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    }
+}
